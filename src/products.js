@@ -55,7 +55,7 @@ export const clothSet =  [
         "stock": 5,
         "sizes": ["S", "M"],
         "description": "Light and breezy summer dress perfect for any occasion.",
-        "image":"src/img/clothes/dress3.png",
+        "image":"public/img/clothes/dress3.png",
         "rating": 4.6,
         "reviews": 30
     },
