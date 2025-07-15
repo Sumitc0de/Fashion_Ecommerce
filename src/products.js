@@ -43,7 +43,7 @@ export const clothSet =  [
         "stock": 8,
         "sizes": ["M", "L", "XL"],
         "description": "Warm and comfortable hoodie for chilly weather.",
-        "image":"/src/img/clothes/tshirt2.webp",
+        "image":"src/img/clothes/tshirt2.webp",
         "rating": 4.8,
         "reviews": 45
     },
@@ -55,7 +55,7 @@ export const clothSet =  [
         "stock": 5,
         "sizes": ["S", "M"],
         "description": "Light and breezy summer dress perfect for any occasion.",
-        "image":"/src/img/clothes/dress3.png",
+        "image":"src/img/clothes/dress3.png",
         "rating": 4.6,
         "reviews": 30
     },
@@ -67,7 +67,7 @@ export const clothSet =  [
         "stock": 5,
         "sizes": ["S", "M"],
         "description": "Light and breezy summer dress perfect for any occasion.",
-        "image":"/src/img/clothes/dress2.webp",
+        "image":"src/img/clothes/dress2.webp",
         "rating": 4.6,
         "reviews": 30
     },
@@ -79,7 +79,7 @@ export const clothSet =  [
         "stock": 5,
         "sizes": ["S", "M"],
         "description": "Light and breezy summer dress perfect for any occasion.",
-        "image":"/src/img/clothes/tshirt3.png",
+        "image":"src/img/clothes/tshirt3.png",
         "rating": 4.6,
         "reviews": 30
     },
@@ -91,7 +91,7 @@ export const clothSet =  [
         "stock": 5,
         "sizes": ["S", "M"],
         "description": "Light and breezy summer dress perfect for any occasion.",
-        "image":"/src/img/clothes/tshirt3.png",
+        "image":"src/img/clothes/tshirt3.png",
         "rating": 4.6,
         "reviews": 30
     },
@@ -103,7 +103,7 @@ export const clothSet =  [
         "stock": 5,
         "sizes": ["S", "M"],
         "description": "Light and breezy summer dress perfect for any occasion.",
-        "image":"/src/img/clothes/tshirt3.png",
+        "image":"src/img/clothes/tshirt1.webp",
         "rating": 4.6,
         "reviews": 30
     }
