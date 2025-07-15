@@ -7,7 +7,7 @@ export const clothSet =  [
         "stock": 10,
         "sizes": ["S", "M", "L", "XL"],
         "description": "Comfortable and stylish half sleeve t-shirt made from premium cotton.",
-        "image": "/src/img/clothes/shirt1.webp",
+        "image": "src/img/clothes/shirt1.webp",
         "rating": "4.6",
         "reviews": 120
     },
@@ -19,7 +19,7 @@ export const clothSet =  [
         "stock": 15,
         "sizes": ["XS", "S", "M", "L"],
         "description": "Elegant casual dress perfect for summer evenings.",
-        "image": "/src/img/clothes/dress1.webp",
+        "image": "src/img/clothes/dress1.webp",
         "rating": 4.7,
         "reviews": 85
     },
@@ -31,7 +31,7 @@ export const clothSet =  [
         "stock": 30,
         "sizes": "S",
         "description": "Stylish and comfortable cap for any occasion.",
-        "image":"/src/img/clothes/cap1.webp",
+        "image":"src/img/clothes/cap1.webp",
         "rating": 4.2,
         "reviews": 60
     },
